@@ -1,0 +1,1 @@
+Update symbol J5 from 'Connector_Generic:Conn_01x04' to 'Connector_Generic:Conn_01x04': OK
